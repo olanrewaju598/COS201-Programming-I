@@ -52,5 +52,6 @@ To configure the Java development environment, write a simple Java program, comp
 2. `week03/AverageCalculator.java` - Calculates the total and average of three scores.
 3. `week03/ItemCost.java` - Calculates the total cost using quantity and unit price.
 
+
 ### Testing
 Tested each program with different valid inputs and verified that the results match the expected calculations.
